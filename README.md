@@ -11,7 +11,13 @@ I'm ~~a 360° all-around universal robot sent from the future~~ searching for a 
 * 🦀 I currently prefer writing Rust because apparently I enjoy fighting the borrow checker for sport
 * 🎭 Built [lane.id](https://lane.id) - an IdP provider (because OpenID Connect wasn't complicated enough already)
 * 📮 Also made [shovel.mx](https://shovel.mx) - an MTA (mail goes in, mail goes out, I can't explain why)
-* 🌭 My dream: `while(sleeping){money++;}`
+* 🌭 My dream: 
+```rust
+loop {
+    sleep().await;
+    money += 1;
+}
+```
 
 ---
 
