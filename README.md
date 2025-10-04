@@ -5,11 +5,9 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oleksiy@noroutine.me)
 
 
-# Hey there 👋
-
 I'm ~~a 360° all-around universal robot sent from the future~~ searching for a spiritual balance between iron and rust
 
-* ☸️ By day, I wear three hats: developer, devops, and SRE (in any combination, four if you count "professional YAML archaeologist")
+* ☸️ I write code by day and keep it running by night (other way around would violate the harmony in the universe)
 * 🦀 I currently prefer writing Rust because apparently I enjoy fighting the borrow checker for sport
 * 🎭 Built [lane.id](https://lane.id) - an IdP provider (because OpenID Connect wasn't complicated enough already)
 * 📮 Also made [shovel.mx](https://shovel.mx) - an MTA (mail goes in, mail goes out, I can't explain why)
