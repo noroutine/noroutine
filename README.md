@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0B65C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksiikhilkevych)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oleksiy@noroutine.me)
 
-I'm ~~a 360° all-around universal robot sent from the future~~ searching for a spiritual balance between iron and rust
+I'm ~~a 360° all-around weapon sent from the future~~ searching for a spiritual balance between iron and rust
 
 * ☸️ I write code by day and keep it running by night (other way around would violate the harmony in the universe)
 * 🦀 I currently prefer writing Rust because apparently I enjoy fighting the borrow checker for sport
