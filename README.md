@@ -1,1 +1,1 @@
-[Oleksii's Stats](https://github-readme-stats.vercel.app/api?username=noroutine&show_icons=true&bg_color=00000000)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=noroutine)](https://github-readme-stats.vercel.app/api?username=noroutine&show_icons=true&bg_color=00000000)
