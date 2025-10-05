@@ -1,5 +1,6 @@
 ### Hey there, you found me.
 
+[![CV](https://img.shields.io/badge/My_CV-E6522C?style=flat-square&logo=readdotcv&logoColor=white)](https://github.com/noroutine/noroutine/blob/master/Oleksii_2025.pdf)
 [![Website](https://img.shields.io/badge/Website-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://noroutine.me/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0B65C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksiikhilkevych)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oleksiy@noroutine.me)
