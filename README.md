@@ -9,8 +9,4 @@
 
 I'm ~~a 360° all-around weapon sent from the future~~ searching for a spiritual balance in the present moment
 
----
 
-My GitHub stats (powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)):
-
-[![stats](https://github-readme-stats.vercel.app/api?username=noroutine&show_icons=true&hide_title=true&hide_border=true)](https://noroutine.me/)
