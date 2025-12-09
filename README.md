@@ -7,8 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0B65C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksiikhilkevych)
 
 
-I'm ~~a 360° all-around weapon sent from the future~~ searching for a spiritual balance
-```
+I'm ~~a 360° all-around weapon sent from the future~~ searching for a spiritual balance in the present moment
 
 ---
 
