@@ -4,22 +4,10 @@
 <a href="https://github.com/noroutine/noroutine/blob/master/Oleksii_2025.pdf" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/My_CV-E6522C?style=flat-square&logo=readdotcv&logoColor=white" alt="CV">
 </a>
-[![Website](https://img.shields.io/badge/Website-F0773A?style=flat-square&logo=firefox-browser&logoColor=white)](https://noroutine.me/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0B65C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksiikhilkevych)
 
 
-I'm ~~a 360° all-around weapon sent from the future~~ searching for a spiritual balance between iron and rust
-
-* ☸️ I write code by day and keep it running by night (other way around would violate the harmony in the universe)
-* 🦀 I currently prefer writing Rust because apparently I enjoy fighting the borrow checker for sport
-* 🎭 Built [lane.id](https://lane.id/) - an IdP provider (because OpenID Connect wasn't complicated enough already)
-* 📮 Also made [shovel.mx](https://shovel.mx/) - an MTA (mail goes in, mail goes out, I can't explain why)
-* 🌭 My dream: 
-```rust
-loop {
-    sleep().await;
-    money += 1;
-}
+I'm ~~a 360° all-around weapon sent from the future~~ searching for a spiritual balance
 ```
 
 ---
