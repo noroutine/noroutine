@@ -17,9 +17,9 @@ kpr fronts a stock OCI `distribution` registry: ephemeral images and lightweight
 - 📦 [**kpr**](https://github.com/noroutine/kpr) — ephemeral container images + retention cleanup for a stock OCI registry. Stack: Go.
 - 🌐 [**maglev**](https://nrtn.dev/catalyst/maglev) — Maglev-based DSR load-balancing setup
 - 🏗️ [**infra-setup**](https://nrtn.dev/catalyst/infra-setup) — how I build my infra: bare metal + Proxmox + VMs + k8s clusters, fully automated
-- 📧 [**Shovel MX**](https://shovel.mx/) — mail transfer agent delivering to Microsoft 365, Google Workspace and local archive
-- 🦀 [**terraform-eui64**](https://github.com/noroutine/terraform-eui64) — EUI-64 calculator per RFC 4291
-- 🇺🇦 **rustlings-ua** — Ukrainian translation of Rustlings exercises
+- 📶 [**sshping**](https://nrtn.dev/catalyst/sshping) — ping-style SSH auth tester: real connections, not just TCP
+- 🦀 [**rustlings-ua**](https://github.com/noroutine/rustlings-ua) — Ukrainian translation of Rustlings exercises
+- [**terraform-eui64**](https://github.com/noroutine/terraform-eui64) — EUI-64 calculator per RFC 4291
 
 ---
 
