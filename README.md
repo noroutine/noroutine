@@ -36,5 +36,5 @@ kpr fronts a stock OCI `distribution` registry: ephemeral images and lightweight
 ---
 
 📩 [oleksiy@noroutine.me](mailto:oleksiy@noroutine.me)
-📄 [My CV](https://github.com/noroutine/noroutine/blob/master/Oleksii_2026.pdf)
+📄 My CV: [EN](https://github.com/noroutine/noroutine/blob/master/Permanent_Platform_EN.pdf) · [DE](https://github.com/noroutine/noroutine/blob/master/Permanent_Platform_DE.pdf)
 🔗 [linkedin.com/in/okay2049](https://www.linkedin.com/in/okay2049/)
